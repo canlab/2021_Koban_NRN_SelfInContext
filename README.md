@@ -9,4 +9,5 @@ Code to reproduce maps using Cognitive and Affective Neuroscience Lab (CANlab) t
 Dependencies:
 1. Matlab 2018 or later (tested on 2020b)
 2. SPM12 neuroimaging software (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
-3. CANlab Core toolbox folders on Matlab path (https://github.com/canlab)
+3. CANlab CanlabCore and Neuroimaging_Pattern_Masks repositories (https://github.com/canlab), version 1-12-2021 (other versions may be compatible)
+Install includes adding all subfolders to your Matlab path. Further install instructions are on canlab.github.io.
